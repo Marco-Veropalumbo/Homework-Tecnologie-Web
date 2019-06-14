@@ -1,0 +1,88 @@
+.jumbotron{
+    padding-bottom: 0%;
+    padding-top: 6.7%;
+    background-image: linear-gradient(rgba(164,145,96,.45),hsla(0,0%,100%,0)) , url("/static/images/bgoutdoors.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 44px;
+    color: white;
+    font-family: Ubuntu, Times New Roman, Times, serif;
+    text-rendering: optimizeLegibility;
+    text-shadow: -1px 2px 0 rgba(0,0,0,.23)
+}
+h5 {
+    font-size: 19px;
+    color: white;
+    font-family: Ubuntu, Times New Roman, Times, serif;
+    text-shadow: -1px 2px 0 rgba(0,0,0,.23)
+}
+h6 {
+    font-size: 18px;
+    color: white;
+    font-stretch: extra-condensed;
+    font-family: Ubuntu, Times New Roman, Times, serif;
+    padding: 20px;
+}
+.nav-link {
+    font-weight: 500;
+    color: #266abd;
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+}
+
+.fill{
+    padding-top: 2.8%;
+}
+
+.base {
+    background-color: rgba(0,0,0,.3);
+    padding-bottom: 2.4%;
+}
+
+.form-control {
+    margin-left: 28.5%;
+    margin-right: 38%;
+    border: 2px solid white;
+    top: 1px;
+    height: 56px;
+    max-width: 620px;
+}
+
+#promo1 {
+    padding-top: 15px;
+    padding-left: 10%;
+}
+
+#promo2 {
+    padding-right: 22%;
+    padding-top: 30px;
+}
+
+#promo3 {
+    font-size: 20px;
+    color: #f50028;
+}
+
+#promo4 {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#button-addon {
+    border: 5px solid white;
+    background-color: #266abd;
+    font-size: 18px;
+    position: absolute;
+    left: 61.59%;
+    top: 1px;
+    height: 56px;
+}
+
+#tabella {
+    align-items: center;
+}
